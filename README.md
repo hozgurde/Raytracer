@@ -23,3 +23,5 @@ Ray tracing program implemented by using WebGL
 # Contributers
  - Name - Surname: Halil Özgür Demir
  - Name - Surname: Serkan Delil
+
+# Sample Scenes
