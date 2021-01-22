@@ -25,3 +25,10 @@ Ray tracing program implemented by using WebGL
  - Name - Surname: Serkan Delil
 
 # Sample Scenes
+
+![alt text](https://user-images.githubusercontent.com/64331421/105493114-001d4700-5cca-11eb-8f0d-67937e05664e.png)
+![alt text](https://user-images.githubusercontent.com/64331421/105493126-04e1fb00-5cca-11eb-9ffb-dabab78a25f6.png)
+![alt text](https://user-images.githubusercontent.com/64331421/105493139-09a6af00-5cca-11eb-9ce7-ff0d6fddb34b.png)
+![alt text](https://user-images.githubusercontent.com/64331421/105493148-0dd2cc80-5cca-11eb-9d7b-2fcdae7e35fa.png)
+![alt text](https://user-images.githubusercontent.com/64331421/105493162-10cdbd00-5cca-11eb-8f95-41f53ed7ae02.png)
+![alt text](https://user-images.githubusercontent.com/64331421/105493170-14614400-5cca-11eb-8a71-ceaa3711df95.png)
